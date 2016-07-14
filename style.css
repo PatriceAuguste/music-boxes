@@ -27,7 +27,9 @@ body{
 #d{
   background-color: #422018;
 }
-#d:hover{}
+#d:hover{
+  background-color: #420483;
+}
 #e{
   background-color: #45391B;
 }
