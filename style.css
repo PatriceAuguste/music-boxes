@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(80,80,80);
+}
+
+#instrument{
+  height: 120px;
+  width:812px;
+  padding-right: 10px;
+  padding-top: 50px;
+  margin:auto;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+}
+
+#c{
+  background-color: #3E181b;
+}
+#c:hover{
+  background-color: #661920;
+}
+#d{
+  background-color: #422018;
+}
+#d:hover{}
+#e{
+  background-color: #45391B;
+}
+#f{
+  background-color: #193C29;
+}
+#g{
+  background-color:#18323E;
+}
+#a{
+  background-color: #331F35;
+}
+#b{
+  background-color: #43293D;
+}
